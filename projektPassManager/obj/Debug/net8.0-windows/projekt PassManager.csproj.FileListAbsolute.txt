@@ -1,0 +1,21 @@
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\bin\Debug\net8.0-windows\projekt PassManager.exe
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\bin\Debug\net8.0-windows\projekt PassManager.deps.json
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\bin\Debug\net8.0-windows\projekt PassManager.runtimeconfig.json
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\bin\Debug\net8.0-windows\projekt PassManager.dll
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\bin\Debug\net8.0-windows\projekt PassManager.pdb
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\obj\Debug\net8.0-windows\App.g.cs
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\obj\Debug\net8.0-windows\projekt PassManager_MarkupCompile.cache
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\obj\Debug\net8.0-windows\MainWindow.baml
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\obj\Debug\net8.0-windows\projekt PassManager.g.resources
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\obj\Debug\net8.0-windows\projekt PassManager.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\obj\Debug\net8.0-windows\projekt PassManager.AssemblyInfoInputs.cache
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\obj\Debug\net8.0-windows\projekt PassManager.AssemblyInfo.cs
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\obj\Debug\net8.0-windows\projekt PassManager.csproj.CoreCompileInputs.cache
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\obj\Debug\net8.0-windows\projekt PassManager.dll
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\obj\Debug\net8.0-windows\refint\projekt PassManager.dll
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\obj\Debug\net8.0-windows\projekt PassManager.pdb
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\obj\Debug\net8.0-windows\projekt PassManager.genruntimeconfig.cache
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\obj\Debug\net8.0-windows\ref\projekt PassManager.dll
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\obj\Debug\net8.0-windows\PasswordManagerWindow.baml
+H:\PRG IT3\PassManager\projekt PassManager\projekt PassManager\obj\Debug\net8.0-windows\PasswordManagerWindow.g.cs
